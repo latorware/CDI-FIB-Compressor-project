@@ -1,0 +1,2 @@
+C:\Users\lator\Documents\GitHub\CDI_no_github_encara\projectc++\projectc++\x64\Debug\projectc++.exe
+C:\Users\lator\Desktop\prova3\projectc++\projectc++\x64\Debug\projectc++.exe
